@@ -33,3 +33,7 @@ At the end of all runs, the program calculates the total scores, the most freque
    python Prisoners_Dilemma.py
 4. Enter the number of runs when prompted.
 5. After execution, open the Results.txt file to see the results.
+
+---
+## Author
+SoraSok
