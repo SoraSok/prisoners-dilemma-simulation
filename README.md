@@ -36,4 +36,4 @@ At the end of all runs, the program calculates the total scores, the most freque
 
 ---
 ## Author
-SoraSok
+SoraSok - 2025 
