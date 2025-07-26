@@ -1,0 +1,27 @@
+*** Run 1 ***
+Score for prisoner 1: 2296
+Score for prisoner 2: 2201
+Rounds in total: 1000
+Most frequent decision: cooperate
+Average score per round: 4.50
+Prisoner 1 is the winner
+
+*** Run 2 ***
+Score for prisoner 1: 1978
+Score for prisoner 2: 2308
+Rounds in total: 1000
+Most frequent decision: defect
+Average score per round: 4.29
+Prisoner 2 is the winner
+
+*** Summary over all runs ***
+Total score for prisoner 1: 4274
+Total score for prisoner 2: 4509
+Total rounds: 2000
+Most frequent decision: defect
+Average score per round: 4.39
+(C,C) total: 466 (23.3%)
+Optimal (max sum = 0.75 * 6 * 1000) runs: 0/2 (0.0%)
+Optimal (>=25% (C,C)) runs: 1/2 (50.0%)
+
+Prisoner 2 is the winner 🎉
